@@ -3,6 +3,11 @@
 🚀 Personal portfolio website showcasing my projects, skills, and achievements in **Full Stack Development, AI, and Blockchain**.
 
 ---
+## Deployment Link:
+
+  https://nikshiptha-portfolio.netlify.app/
+
+  ---
 
 ## 👩‍💻 About Me
 
